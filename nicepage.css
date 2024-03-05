@@ -43445,112 +43445,62 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 0;
 }
 
-.u-footer .u-layout-wrap-1 {
-  width: 518px;
-  margin: -252px 52px 60px auto;
-}
-
-.u-footer .u-layout-cell-1 {
-  min-height: 246px;
-}
-
-.u-footer .u-container-layout-5 {
-  padding: 30px 0;
-}
-
 .u-footer .u-image-1 {
   width: 195px;
   height: 50px;
-  margin: 0 auto;
-}
-
-.u-footer .u-layout-cell-2 {
-  min-height: 246px;
-}
-
-.u-footer .u-container-layout-6 {
-  padding: 30px 30px 30px 0;
+  margin: -217px 130px 0 auto;
 }
 
 .u-footer .u-image-2 {
   width: 84px;
   height: 84px;
-  margin: 0 auto;
+  --radius: 17px;
+  margin: 64px 185px 60px auto;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-layout-wrap-1 {
-    margin-top: -252px;
-  }
-
   .u-footer .u-image-1 {
     width: 195px;
     height: 50px;
-  }
-}
-@media (max-width: 991px) {
-  .u-footer .u-layout-wrap-1 {
     margin-top: -217px;
-    margin-right: 11px;
+    margin-right: 130px;
   }
 
-  .u-footer .u-container-layout-6 {
-    padding-top: 29px;
-    padding-bottom: 29px;
+  .u-footer .u-image-2 {
+    margin-right: 185px;
   }
 }
+
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
-    min-height: 1222px;
+    min-height: 426px;
   }
 
-  .u-footer .u-layout-wrap-1 {
-    width: 259px;
-    margin-top: -219px;
-    margin-right: 27px;
-  }
-
-  .u-footer .u-layout-cell-1 {
-    min-height: 91px;
-  }
-
-  .u-footer .u-container-layout-5 {
-    padding-top: 0;
-  }
-
-  .u-footer .u-layout-cell-2 {
-    min-height: 642px;
-  }
-
-  .u-footer .u-container-layout-6 {
-    padding-right: 10px;
-    padding-bottom: 0;
+  .u-footer .u-image-2 {
+    margin-top: 46px;
+    margin-right: 186px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 864px;
-  }
-
-  .u-footer .u-list-1 {
-    margin-top: 69px;
-    margin-left: 0;
+    min-height: 416px;
   }
 
   .u-footer .u-repeater-1 {
     min-height: 252px;
   }
 
-  .u-footer .u-layout-wrap-1 {
-    width: 179px;
-    margin-top: -231px;
+  .u-footer .u-image-1 {
+    width: 115px;
+    height: 25px;
+    margin-top: -199px;
+    margin-right: 27px;
   }
 
-  .u-footer .u-layout-cell-1 {
-    min-height: 99px;
-  }
-
-  .u-footer .u-layout-cell-2 {
-    min-height: 421px;
+  .u-footer .u-image-2 {
+    width: 53px;
+    height: 53px;
+    margin-top: 44px;
+    margin-right: 58px;
   }
 }
 
