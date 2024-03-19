@@ -204,12 +204,12 @@
 .u-section-3 .u-list-1 {
   grid-template-rows: auto;
   width: 1058px;
-  margin: 38px auto 60px;
+  margin: 147px auto 8px;
 }
 
 .u-section-3 .u-repeater-1 {
   grid-template-columns: calc(50% - 10px) calc(50% - 10px);
-  min-height: 448px;
+  min-height: 459px;
   grid-gap: 20px 20px;
   grid-auto-columns: calc(50% - 10px);
 }
@@ -293,7 +293,7 @@
 
   .u-section-3 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 10px));
-    min-height: 397px;
+    min-height: 407px;
   }
 
   .u-section-3 .u-text-2 {

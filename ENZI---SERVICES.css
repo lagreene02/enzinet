@@ -1,7 +1,7 @@
  .u-section-1 {
   background-image: url("images/racial-attention-deficit-sociology-columbia.jpg");
   background-position: 50% 50%;
-  min-height: 350px;
+  min-height: 438px;
 }
 
 .u-section-1 .u-group-1 {
@@ -29,7 +29,7 @@
 
 @media (max-width: 1199px) {
    .u-section-1 {
-    min-height: 289px;
+    min-height: 361px;
   }
 
   .u-section-1 .u-group-1 {
@@ -54,7 +54,7 @@
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 221px;
+    min-height: 277px;
   }
 
   .u-section-1 .u-group-1 {
@@ -77,7 +77,7 @@
 
 @media (max-width: 767px) {
    .u-section-1 {
-    min-height: 166px;
+    min-height: 208px;
   }
 
   .u-section-1 .u-group-1 {
@@ -100,7 +100,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 105px;
+    min-height: 131px;
   }
 
   .u-section-1 .u-group-1 {
@@ -118,12 +118,12 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 352px;
+  min-height: 332px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
   width: 1044px;
-  margin: 0 auto 60px;
+  margin: 0 auto 40px;
 }
 
 .u-section-2 .u-layout-cell-1 {
