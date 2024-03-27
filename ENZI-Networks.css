@@ -2191,7 +2191,7 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 1488px;
+  min-height: 1090px;
 }
 
 .u-section-5 .u-text-1 {
@@ -2208,31 +2208,31 @@
 
 .u-section-5 .u-layout-wrap-1 {
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-5 .u-layout-cell-1 {
-  min-height: 534px;
+  min-height: 401px;
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 0 22px 30px;
+  padding: 0 22px;
 }
 
 .u-section-5 .u-text-2 {
   font-weight: 700;
   font-family: Lato, sans-serif;
   font-size: 3rem;
-  margin: 242px 62px 0 0;
+  margin: 101px 62px 0 0;
 }
 
 .u-section-5 .u-text-3 {
   font-size: 2.25rem;
-  margin: 26px 109px 0 1px;
+  margin: 40px 110px 0 0;
 }
 
 .u-section-5 .u-layout-cell-2 {
-  min-height: 534px;
+  min-height: 401px;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
 }
@@ -2272,9 +2272,15 @@
   margin: 6px auto 0;
 }
 
+.u-section-5 .u-custom-html-1 {
+  min-height: 501px;
+  height: auto;
+  margin: 12px 850px 32px 70px;
+}
+
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1394px;
+    min-height: 1020px;
   }
 
   .u-section-5 .u-text-1 {
@@ -2299,7 +2305,6 @@
 
   .u-section-5 .u-text-3 {
     margin-right: 10px;
-    margin-left: 0;
   }
 
   .u-section-5 .u-layout-cell-2 {
@@ -2314,11 +2319,16 @@
     padding-left: 12px;
     padding-right: 12px;
   }
+
+  .u-section-5 .u-custom-html-1 {
+    margin-right: 720px;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1258px;
+    min-height: 789px;
   }
 
   .u-section-5 .u-text-1 {
@@ -2336,7 +2346,6 @@
   }
 
   .u-section-5 .u-container-layout-1 {
-    padding-bottom: 0;
     padding-left: 0;
     padding-right: 0;
   }
@@ -2363,11 +2372,15 @@
     margin-top: 5px;
     margin-left: 55px;
   }
+
+  .u-section-5 .u-custom-html-1 {
+    margin-right: 500px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1154px;
+    min-height: 889px;
   }
 
   .u-section-5 .u-text-1 {
@@ -2418,6 +2431,10 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-5 .u-custom-html-1 {
+    margin-right: 320px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -2456,6 +2473,10 @@
 
   .u-section-5 .u-text-4 {
     margin-top: 2px;
+  }
+
+  .u-section-5 .u-custom-html-1 {
+    margin-right: 120px;
   }
 }
 

@@ -337,6 +337,20 @@ dependable, they consistently deliver results. Highly recommended
             </div>
           </div>
         </div>
+        <div class="custom-expanded u-clearfix u-custom-html u-custom-html-1">
+          <form method="POST" name="contact_form" action="&lt;?php echo htmlentities($_SERVER['PHP_SELF']); ?&gt;">
+            <label for="name">Name: </label>
+            <input type="text" name="name" value="<?php echo htmlentities($name) ?>">
+            <label for="email">Email: </label>
+            <input type="text" name="email" value="<?php echo htmlentities($visitor_email) ?>">
+            <label for="message">Message:</label>
+            <textarea name="message" rows="8" cols="80">&lt;?php echo htmlentities($user_message) ?&gt;</textarea>
+            <img src="captcha_code_file.php?rand=&lt;?php echo rand(); ?&gt;" id="captchaimg">
+            <label for="message">Enter the code above here :</label>
+            <input id="6_letters_code" name="6_letters_code" type="text">
+            <input type="submit" value="Submit" name="submit">
+          </form>
+        </div>
       </div>
       
       
@@ -374,13 +388,17 @@ transparency: 0 !important
         </div>
         <img class="u-image u-image-default u-image-1" src="images/Linkedin-logo-png.png" alt="" data-image-width="1400" data-image-height="362" data-href="linkedin.com/in/enzi-networks-llc-a98798294" data-target="_blank" rel="nofollow">
       </div></footer>
-
-	  <section class="u-backlink u-clearfix u-grey-80">
-           <span>Enzi Networks LLC © 2024 COPYRIGHT ALL RIGHTS RESERVED</span>
-</section>
-	  
-	
-	<span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px; padding: 15px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base" data-href="#">
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px; padding: 15px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base" data-href="#">
         <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
         <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
     </span>
