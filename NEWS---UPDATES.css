@@ -226,8 +226,8 @@
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   --radius: 34px;
   box-shadow: 0px 23px 31px 0px rgba(128,128,128,1);
-  background-image: none;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  background-image: none;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -246,7 +246,7 @@
 }
 
 .u-section-3 .u-text-3 {
-  font-size: 1rem;
+  font-size: 0.875rem;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   margin: 54px 46px 0;
@@ -413,7 +413,6 @@
   }
 
   .u-section-3 .u-text-3 {
-    font-size: 0.875rem;
     margin-top: 18px;
     margin-left: 27px;
     margin-right: 27px;
