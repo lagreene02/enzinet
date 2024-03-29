@@ -43575,13 +43575,25 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
+   .u-header {
+    min-height: 78px;
+  }
+
+  .u-header .u-group-1 {
+    min-height: 56px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: 15px;
+    margin-top: 14px;
     margin-right: 47px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-group-1 {
+    min-height: 56px;
+  }
+
   .u-header .u-menu-1 {
     margin-right: 47px;
   }
